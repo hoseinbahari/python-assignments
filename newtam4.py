@@ -3,6 +3,7 @@ while True :
     a = random.randint(1,6)
     print(a)
     if a == 6:
-        continue
+        print("barande shodi")
     else:
+        print("bakhti")
         break
